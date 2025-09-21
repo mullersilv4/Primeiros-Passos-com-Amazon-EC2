@@ -39,4 +39,4 @@ Este projeto demonstra como lançar instâncias **Amazon EC2** em diferentes **A
 ---
 
 ## 📷 Diagrama da Arquitetura
-[📷 Ver Diagrama da Arquitetura]([./imagens/diagrama-ec2.png](https://github.com/mullersilv4/Primeiros-Passos-com-Amazon-EC2/issues/1))
+[📷 Ver Diagrama da Arquitetura](https://github.com/mullersilv4/Primeiros-Passos-com-Amazon-EC2/issues/1#issue-3438603288)
